@@ -17,9 +17,9 @@ def main():
     print(" Proyecto Final - Sistemas Inteligentes")
     print("=======================================\n")
 
-    # -----------------------------------------
+    # ------------------------------------------
     # 1. Crear mundo, animales y cerebro.
-    # -----------------------------------------
+    # ------------------------------------------
     grid = Grid()
     impala = Impala()
     leon = Leon()
@@ -47,6 +47,7 @@ def main():
     num_incursiones = 5000  # cámbiale dependiendo qué tan pro quieras el aprendizaje
 
     print(f"Iniciando entrenamiento con {num_incursiones} incursiones...\n")
+    print(dir(kb))
     trainer.run(num_incursiones)
 
     # Guardar conocimiento

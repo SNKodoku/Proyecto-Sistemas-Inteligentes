@@ -1,0 +1,1464 @@
+[
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                1
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 1.4142135623730951,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 5.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                3
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                1
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 1.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                1
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 6.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                1
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 10.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                0
+            ],
+            "pos_impala": [
+                1,
+                4
+            ],
+            "distancia": 4.123105625617661,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 11.045361017187261,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                0
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 14.035668847618199,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                4
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 12.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 0.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                3
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 2.23606797749979,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.055385138137417,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                1
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 6.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                0
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 2.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                3
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 13.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                4
+            ],
+            "distancia": 2.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                1
+            ],
+            "pos_impala": [
+                1,
+                4
+            ],
+            "distancia": 3.1622776601683795,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 6.082762530298219,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    3
+                ],
+                [
+                    0,
+                    3
+                ]
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 13.038404810405298,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                2
+            ],
+            "pos_impala": [
+                1,
+                4
+            ],
+            "distancia": 2.23606797749979,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.055385138137417,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                1
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 10.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 1.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    4
+                ],
+                [
+                    0,
+                    4
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 5.0990195135927845,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    4
+                ],
+                [
+                    0,
+                    4
+                ]
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 12.041594578792296,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    2,
+                    3
+                ],
+                [
+                    0,
+                    3
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.06225774829855,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                3
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 4.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                3
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                2
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 5.0990195135927845,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                5
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 11.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                0
+            ],
+            "pos_impala": [
+                1,
+                4
+            ],
+            "distancia": 4.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                0
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 7.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 14.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                2
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                [
+                    0,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 10.04987562112089,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                0
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 11.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                1,
+                4
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 7.0,
+            "en_vision": false,
+            "impala_estado": [
+                "izquierda",
+                "derecha",
+                "abajo",
+                "frente"
+            ]
+        },
+        "accion": "avanzar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                3
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 13.038404810405298,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "derecha"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                4
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "frente",
+                "izquierda",
+                "derecha"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                3
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.06225774829855,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "derecha"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                1
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 10.04987562112089,
+            "en_vision": false,
+            "impala_estado": "izquierda"
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                4
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "derecha"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                2
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 14.035668847618199,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "izquierda"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                0
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 2.23606797749979,
+            "en_vision": false,
+            "impala_estado": [
+                "frente",
+                "izquierda",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                2
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 1.0,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                1
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 6.082762530298219,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                1
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 10.04987562112089,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                2
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 5.0990195135927845,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                0
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 11.045361017187261,
+            "en_vision": false,
+            "impala_estado": "derecha"
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                2
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 1.0,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "frente",
+                "izquierda"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                2
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.055385138137417,
+            "en_vision": false,
+            "impala_estado": "abajo"
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                2
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 9.055385138137417,
+            "en_vision": false,
+            "impala_estado": [
+                "frente",
+                "izquierda",
+                "derecha"
+            ]
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                0
+            ],
+            "pos_impala": [
+                1,
+                2
+            ],
+            "distancia": 2.23606797749979,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "izquierda",
+                "derecha"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                0
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 7.0710678118654755,
+            "en_vision": false,
+            "impala_estado": [
+                "abajo",
+                "izquierda"
+            ]
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                1
+            ],
+            "pos_impala": [
+                1,
+                7
+            ],
+            "distancia": 6.082762530298219,
+            "en_vision": false,
+            "impala_estado": "abajo"
+        },
+        "accion": "esconderse",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                4
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 12.041594578792296,
+            "en_vision": false,
+            "impala_estado": "izquierda"
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                2,
+                2
+            ],
+            "pos_impala": [
+                1,
+                16
+            ],
+            "distancia": 14.035668847618199,
+            "en_vision": false,
+            "impala_estado": "izquierda"
+        },
+        "accion": "atacar",
+        "confianza": 1
+    },
+    {
+        "condiciones": {
+            "pos_leon": [
+                0,
+                3
+            ],
+            "pos_impala": [
+                1,
+                11
+            ],
+            "distancia": 8.06225774829855,
+            "en_vision": false,
+            "impala_estado": "izquierda"
+        },
+        "accion": "atacar",
+        "confianza": 1
+    }
+]
